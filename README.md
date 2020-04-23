@@ -1,5 +1,6 @@
 # DRP Program - Networks
-Code done under Directed Reading Program about network/graph theory
+Code done under Directed Reading Program about network/graph theory <br>
+thanks to my mentor Brandon Alexander
 
 Textbook used:
 ### Networks 2nd Edition by Mark Newman
